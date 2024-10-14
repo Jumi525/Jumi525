@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jumi_klein
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++,python, machine language,qt
+- 🌱 I’m currently learning c++,python, Frontend development, machine learning,qt
 - 💞️ I’m looking to collaborate with expert to improve my programming knowledge
 - 📫 How to reach me jumiklein525@gmail.com
 
